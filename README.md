@@ -5,5 +5,6 @@ run npm i
 
 open page in browser.
 
-test.html uses webpakc generated file
+test.html uses webpack generated file
+
 test2.html uses browser.js from unpkg.com
