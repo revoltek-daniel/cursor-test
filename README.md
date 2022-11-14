@@ -1,7 +1,8 @@
 # cursor-test
 
-run npm i
-./node-modules/.bin/webpack
+`run npm i`
+
+`./node-modules/.bin/webpack`
 
 open page in browser.
 
