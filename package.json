@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cursor-effects": "^1.0.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
